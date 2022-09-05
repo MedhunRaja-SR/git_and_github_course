@@ -1,1 +1,3 @@
 strength is Weakness
+
+Difference in personal_quotes.txt
